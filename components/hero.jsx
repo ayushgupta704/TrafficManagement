@@ -36,7 +36,7 @@ const HeroSection=() =>{
   <section className='pt-40 pb-20 px-4'>
   <div className='container mx-auto text-center'>
     <h1 className='text-5xl md:text-8xl lg:text-[105px] pb-6 gradient-title'>
-        Navigate your traffic  <br/> with Intelligence
+        Navigate traffic  <br/> with Intelligence
     </h1>
     <p className='text-xl text-gray-600 mb-8 max-w-2xl mx-auto'>
         An AI-powered tarffic tracking platform that helps you track 
@@ -50,7 +50,7 @@ const HeroSection=() =>{
         </Button>
         </Link>
 
-        <Link href="https://ayushgupta704.github.io/Ayush_portfolio_website/">
+        <Link href="/">
         <Button size="lg" variant="outline" className="px-8">
             Watch demo
         </Button>
